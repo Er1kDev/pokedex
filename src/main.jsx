@@ -14,7 +14,7 @@ createRoot(document.getElementById("root")).render(
           <div className="max-w-6xl mx-auto px-4">
             <div className="flex justify-center items-center py-4"> {/* Changed justify-between to justify-center */}
               <div className="flex items-center">
-                <img src="/public/pokemon.png" alt="logo-pokemon" width="300" height="50" />
+                <img src="pokemon.png" alt="logo-pokemon" width="300" height="50" />
               </div>
             </div>
           </div>
